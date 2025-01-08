@@ -1,0 +1,1 @@
+This error occurs when you try to access a property of an object that is null or undefined. This is a common error in JavaScript and React Native, and it can be difficult to track down.
